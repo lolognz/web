@@ -47,7 +47,7 @@ section {
 #navbar {
     background-color: transparent;
     position: fixed;
-    top: -80px;
+    top: 0px;/*-80px;*/
     width: 100%;
     display: block;
     transition: top 0.3s;
